@@ -1,4 +1,4 @@
-# Unveiling-Instagram-Insights_dataanalystduo
+# Unveiling-Instagram-Insights of an Instagram Page @dataanalystduo
 
 ## Context:
 Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) of ~𝟕𝟓𝐤 data enthusiasts founded by two individuals Aditi & Kalpesh. They share content around statistics, data science & analytics with budding data aspirants.
@@ -26,7 +26,6 @@ dataanalystduo instagram analytics.xlsx- : The data set contains stats about the
 The goal is to analyse the data and provide recommendations on what type of post are working for the page.
 
 **Note**
-- Unauthorised use or distribution of this project prohibited @dataanalystduo
 - Dataset is owned by @dataanalystduo page & instagram.
 
 ### Key learning after this project:
